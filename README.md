@@ -1,16 +1,13 @@
-## Hi there 👋
+# Claude MCP Practice
 
-<!--
-**claude-mcp-practice/claude-mcp-practice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This fictional project is designed for a hands-on demonstration of how Claude can connect to GitHub through MCP.
 
-Here are some ideas to get you started:
+## Project
+ClientFlow is a fictional customer-management web application for small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repository purpose
+This repository contains project documentation, product information, customer feedback, roadmap items, and bug reports.
+
+Use this repository with Claude to understand the project, review issues, analyze customer feedback, prioritize roadmap items, and prepare a management briefing.
+
+All information is fictional and created for educational practice.
